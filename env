@@ -1,1 +1,1 @@
-url = mongodb+srv://chuvetha:srabc143@memory.obdez.mongodb.net/fsdatabase
+url = mongodb+srv://chuvetha:srabc143@memory.obdez.mongodb.net/fsdatabase?retryWrites=true&w=majority
